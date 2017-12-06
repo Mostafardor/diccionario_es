@@ -3,16 +3,25 @@
 >Diccionario Informatico Etimologico - Español
 >el origen de terminos informaticos.
 
+# Nota: esto esta en desarollo 
+
+
+``neo = Neologismo``
+
 # A:
 	
-  Antivirus:
-		Programa que busca y eventualmente elimina los virus informáticos que pueden haber infectado un disco rígido.
+ 	 Antivirus: 
+		Programa que busca y eventualmente elimina los virus informáticos que pueden haber infectado un disco rígido
+		el sufijo griego -anti (contra), y el latin virus (zumo de frutras letal, fluir, letal) que a la vez tiene 
+		el sufijo griego -ios(veneno)
 
 	Álgebra booleana:
-		Álgebra capaz de poner en forma de ecuaciones las proposiciones lógicas, cuyos factores de operación son and, or, not, if, etc.
+		Álgebra capaz de poner en forma de ecuaciones las proposiciones lógicas, cuyos factores de operación son 
+		and, or, not, if, etc.
 
 	Algoritmo:
 		Conjunto de reglas bien definidas para la resolución de un problema.
+		proviene del arabe.
 
 	ASCII:
 		American Standard Code for information Interchange o código estándar americano para el intercambio de información. Código de 8 dígitos utilizado para la transmisión de datos entre computadoras.
@@ -81,10 +90,13 @@
 
 # D:
 	Deep web:
-		La deep web es aquella parte de la red que contiene material, información y páginas web que no están indexadas en ninguno de los buscadores existentes como pueden ser bing, google, yahoo, etc. Y es conocida por tener material ilegal como trafico de drogas, armas, pedofilia y demás.
+		La deep web es aquella parte de la red que contiene material, información y páginas web que no están 
+		indexadas en ninguno de los buscadores existentes como pueden ser bing, google, yahoo, etc. Y es conocida 
+		por tener material ilegal como trafico de drogas, armas, pedofilia y demás.
 
 	DPI o PPP:
-		Dots Per Inch o Puntos Por Pulgada es una unidad de medida usada para medir los puntos por pulgada que puede recorrer un mouse y de esa forma saber la precisión del mismo.
+		Dots Per Inch o Puntos Por Pulgada es una unidad de medida usada para medir los puntos por pulgada que 
+		puede recorrer un mouse y de esa forma saber la precisión del mismo.
 
 # E:
 	Emulador:
