@@ -1,5 +1,7 @@
 # diccionario_es
-Diccionario Etimologico - Español
+
+>Diccionario Informatico Etimologico - Español
+>el origen de terminos informaticos.
 
 # A:
 	
